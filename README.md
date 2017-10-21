@@ -1,6 +1,7 @@
 # Kiwi::JSON ![build status](https://travis-ci.org/Schniz/kiwi_json.cr.svg?branch=master)
 
-In order to save and load typed objects from Kiwi stores,
+Save and load typed objects from Kiwi stores.
+
 `Kiwi::JSON` delegates another `Kiwi::Store` and provides an interface to use Kiwi stores with classes with `JSON.mapping`.
 
 ## Installation
